@@ -63,18 +63,6 @@ body{
 
 }
 
-.botao_github {
-    background-color: #22d4fd;
-    text-align: center;
-    border-radius: 16px;
-    font-size: 24px;
-    padding: 21.5px 0;
-    text-decoration: none;
-    color: black;
-    font-family: "Montserrat", sans-serif;
-
-}
-
 img {
     width: 250px;
     height: 350px;
